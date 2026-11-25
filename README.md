@@ -359,17 +359,15 @@ Always start by opening the Serial Monitor at 115200 baud on the board in questi
 
 # CAD 
 ## Handheld 
-<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/61011d6b-120f-4201-a60b-fcc0ca3131f3" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/a8b7c8b6-65a3-450c-b802-d949f8cc16c5" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/6ef7b0da-0cdc-44d3-97bc-dd06290ed1a9" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/78a4174c-534c-4e33-a774-a5921596c7fa" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/75506585-62e2-47c4-999b-11cb5b78936b" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/3b47ba4c-616a-46b6-a576-e30cf9fc5205" />
+<img width="2560" height="1440" alt="Screenshot 2026-11-25 at 11 02 44 PM" src="https://github.com/user-attachments/assets/3298ce07-1c59-407c-ae00-1b4a7ca49d00" />
+<img width="728" height="576" alt="image" src="https://github.com/user-attachments/assets/37264f46-4a3a-46bd-8aad-f1b2067f36ce" />
+
 ## Car
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/d9331e9a-0bb4-417b-b682-d782e91fba9e" />
 <img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/8cc695b1-11df-4d6f-86ee-fb084bb256d1" />
 <img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/cde67653-4b30-4f5d-b916-7ca6970d4712" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/09e8b6f1-1043-4896-ac38-3ba3f42e7461" />
-<img width="1600" height="1039" alt="image" src="https://github.com/user-attachments/assets/d7cc36dc-1e65-42ff-8354-9d1a397f06fe" />
+<img width="1606" height="1151" alt="Screenshot 2026-11-25 at 9 42 30 PM" src="https://github.com/user-attachments/assets/4ae3c60c-d920-48ff-8412-d6e55c3fc3a6" />
+
 
 
 
